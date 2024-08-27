@@ -1,6 +1,6 @@
 ## Created to create risky event in Prod for log generation. App is disabled and will be removed after testing.
 
 "AadClientId": "0e60ca61-c508-4533-aac1-3bbc2ff13396",
-"AadSecret": "IAG8Q~EhmUXZ1QZKMinOIJQXr38ABcMMj-ArObcQ",
+"AadSecret": "clo8Q~zNuQoFcReVNT-dKlmnAYMd-vqckLgtBa1n",
 "AadTenantDomain": "elililly.onmicrosoft.com",
 "AadTenantId": "18a59a81-eea8-4c30-948a-d8824cdc2580"
