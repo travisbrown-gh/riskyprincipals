@@ -1,6 +1,0 @@
-## Created to create risky event in DEV for log generation. App is disabled and will be removed after testing.
-
-"AadClientId": "a698a747-16e4-4647-8ce6-b30263fd2ca4",
-"AadSecret": "Clq8Q~UgQYEYZOXrCNKLEqbBrBD_ZTQEtmAx4cTV",
-"AadTenantDomain": "elilillyd.onmicrosoft.com",
-"AadTenantId": "c355d660-172c-4ec2-aae0-b3f76f7836de"
