@@ -1,4 +1,4 @@
-"AadClientId": "c5285974-7dab-4c08-96ff-0b6604b4ade0",
+"AadClientId": "100197ad-9107-48b0-8125-c3b2c93c3f71",
 "AadSecret": "N.q8Q~tQs2pyi9Np6pDS2IJG2uKOowr5N8MZ3bl3",
 "AadTenantDomain": "lillydirectpharmacy.com",
 "AadTenantId": "4625620d-69ee-4e1e-8e34-e1bdf733180a"
