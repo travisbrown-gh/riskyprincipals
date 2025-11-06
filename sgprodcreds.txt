@@ -1,4 +1,0 @@
-"AadClientId": "bebde714-94a8-4cce-af2a-77cad6f709de",
-"AadSecret": "qJG8Q~nU3EEAWfjfxGPoImvumqfjXeX7s74LAcoP",
-"AadTenantDomain": "lilly.com.cn",
-"AadTenantId": "11b8f406-633c-4062-a886-64a3c8b4b75f"
